@@ -1,6 +1,6 @@
 # TP5 : Classes et objets, héritage et polymorphisme
 
-:alarm_clock: [Date de remise: 17 Avril 2022 à 23h59]
+:alarm_clock: Date de remise: 27 novembre 2022 à 23h59]
 
 ![](images/presentation.gif)
 
