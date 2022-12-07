@@ -1,3 +1,58 @@
+
+## Résultats
+Score | Critères
+--- | ---
+0/1 | TestAccessoire: test_attributs_accessoire
+0/1 | TestAccessoire: test_constructeur
+0/1 | TestAccessoire: test_score_viral_bijou
+0/1 | TestAccessoire: test_score_viral_chapeau
+0/1 | TestAccessoire: test_score_viral_chaussures
+0/1 | TestAccessoire: test_score_viral_vetement
+0/1 | TestAccessoire: test_str
+0/1 | TestAnimal: test_add
+0/1 | TestAnimal: test_calcul_meilleur_animal
+0/1 | TestAnimal: test_crier_abstraite
+0/1 | TestAnimal: test_iadd
+0/1 | TestAnimal: test_iadd_chaussures
+0/1 | TestAnimal: test_score_viral_animal
+0/2 | TestCompteTikTok: test_attributs_compte
+0/2 | TestCompteTikTok: test_constructeur_compte
+0/2 | TestCompteTikTok: test_iadd_compte
+0/2 | TestCompteTikTok: test_len_compte
+0/2 | TestCompteTikTok: test_tiktoks_plus_populaires
+0/2 | TestCompteTikTok: test_vues_compte
+0/2 | TestElementViral: test_score_viral_abstraite
+0/1 | TestFiltre: test_attributs_filtre
+0/1 | TestFiltre: test_score_viral_filtre
+0/4 | TestMain: test_main
+0/1 | TestMammifere: test_attributs_chat
+0/1 | TestMammifere: test_constructeur_chat
+0/1 | TestMammifere: test_crier_chat
+0/1 | TestMammifere: test_str_mammifere
+0/1 | TestMusique: test_attributs
+0/1 | TestMusique: test_score_viral
+0/1 | TestOiseau: test_attributs_cockatiel
+0/1 | TestOiseau: test_constructeur_cockatiel
+0/1 | TestOiseau: test_crier_oiseau_chant
+0/1 | TestOiseau: test_crier_oiseau_sans_chant
+0/1 | TestOiseau: test_str_chant
+0/1 | TestOiseau: test_str_sans_chant
+0/1 | TestReptile: test_attributs_serpent
+0/1 | TestReptile: test_constructeur_serpent
+0/1 | TestReptile: test_crier_serpent
+0/1 | TestReptile: test_str_diurne
+0/1 | TestReptile: test_str_nocturne
+0/1 | TestReptile: test_str_serpent_non_venimeux
+0/1 | TestReptile: test_str_serpent_venimeux
+0/2 | TestTikTok: test_ajouter_animal
+0/2 | TestTikTok: test_attributs_tiktok
+0/2 | TestTikTok: test_constructeur_tiktok
+0/2 | TestTikTok: test_lt
+0/2 | TestTikTok: test_str_tiktok
+0/2 | TestTikTok: test_vues_tiktok
+0/64 | **Total**
+
+[Voir détails](./logs/tests_results.txt) | [Rafraîchir](../../)
 # TP5 : Classes et objets, héritage et polymorphisme
 
 :alarm_clock: Date de remise: 27 novembre 2022 à 23h59
